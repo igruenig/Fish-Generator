@@ -14,6 +14,8 @@ body {
   align-items: center;
 }
 
+/* Bubble effect based on https://codepen.io/lextoc/pen/xROmaj */
+
 .bubbles {
   margin: 0;
   padding: 0;
