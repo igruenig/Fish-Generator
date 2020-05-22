@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(0deg, #a1c4fd 0%, #c2e9fb 100%);
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
