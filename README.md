@@ -1,6 +1,6 @@
 # Fish Generator
 
-Generate fishes of random shape and color in the browser.
+Generate fishes of random shape and color in the browser. Check out the [demo](igruenig.github.io/fishgenerator/).
 
 ## Quickstart
 
